@@ -1,6 +1,6 @@
 # 👋 I'm Motoki Watanabe - @XxGodmoonxX
 
-https://img.shields.io/twitter/url?style=social&url=XxGodmoonxX
+![Twitter](https://img.shields.io/twitter/follow/XxGodmoonxX?style=social)
 
 ## Job
 Web Frontend Enginner
