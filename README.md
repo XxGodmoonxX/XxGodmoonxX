@@ -8,3 +8,10 @@
 
 ## Job
 Web Frontend Enginner at Design Company
+
+## My Technical Stack
+
+### Production
+- HTML5(ejs, pug)
+- CSS3(Sass)
+- JavaScript(jQuery, ES6)
