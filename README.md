@@ -12,6 +12,26 @@ Web Frontend Enginner at Design Company
 ## My Technical Stack
 
 ### Production
-- HTML5(ejs, pug)
-- CSS3(Sass)
-- JavaScript(jQuery, ES6)
+
+- HTML5
+  - ejs
+  - pug
+- CSS3
+  - Sass
+  - Stylus
+- JavaScript
+  - ES6
+  - jQuery
+- gulp
+- webpack
+
+### Private
+
+- React
+  - Next.js
+
+### Used in research in university
+
+- Processing
+- openFrameworks
+- Unity(C#)
