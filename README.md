@@ -13,25 +13,25 @@ Web Frontend Enginner at Design Company
 
 ### Production
 
-- HTML5 ★★★
-  - ejs ★★★
-  - pug ★★
-- CSS3 ★★★
-  - Sass ★★★
-  - Stylus ★
-- JavaScript ★★
-  - ES6 ★★
-  - jQuery ★★
-- gulp ★★★
-- webpack ★
+- HTML5
+  - ejs
+  - pug
+- CSS3
+  - Sass
+  - Stylus
+- JavaScript
+  - ES6
+  - jQuery
+- gulp
+- webpack
 
 ### Private
 
-- React ★
-  - Next.js ★
+- React
+  - Next.js
 
 ### Used in research in university
 
-- Processing ★★★
-- openFrameworks ★
-- Unity(C#) ★★
+- Processing
+- openFrameworks
+- Unity(C#)
