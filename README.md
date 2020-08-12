@@ -6,9 +6,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX" />
 </a>
-<br>
+
+<p>
 正直なところ、Most Used Languageの大半はUnity ARKit Pluginをimportしたコードです。今は主にJavaScriptを書いているので、JavaScriptがTop5に入れるようにまずは頑張ります。<br>
 To be honest, most of the Most Used Language is code that imported the Unity ARKit Plugin. I'm mainly writing JavaScript right now, so I'll do my best to get JavaScript into the Top 5 first.
+</p>
 
 ![Favorite Color](https://img.shields.io/badge/Favorite%20Color-%230000ff-%230000ff)
 
