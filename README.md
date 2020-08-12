@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/XxGodmoonxX?style=social)](https://twitter.com/XxGodmoonxX)
 [![Instagram](https://img.shields.io/badge/Instagram-%40xxgodmoonxx-%23C13584)](https://www.instagram.com/xxgodmoonxx/)
 
-正直なところ、Most Used Languageの大半はUnity ARKit Pluginをimportしたコードです。今は主にJavaScriptを書いているので、JavaScriptがTop5に入れるようにまずは頑張ります。<br>
+正直なところ、Most Used Languagesの大半はUnity ARKit Pluginをimportしたコードです。今は主にJavaScriptを書いているので、JavaScriptがTop5に入れるようにまずは頑張ります。<br>
 To be honest, most of the Most Used Language is code that imported the Unity ARKit Plugin. I'm mainly writing JavaScript right now, so I'll do my best to get JavaScript into the Top 5 first.
 
 ## 仕事 / Job
