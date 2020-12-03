@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX" />
 </a>
 
 ![Favorite Color](https://img.shields.io/badge/Favorite%20Color-%230000ff-%230000ff)
