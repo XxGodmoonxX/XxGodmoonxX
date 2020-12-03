@@ -36,8 +36,9 @@ Web Frontend Enginner at Design Company
 - JavaScript
   - ES6
   - jQuery  
-  - React
-    - Next.js
+- TypeScript
+- React
+  - Next.js
 - gulp
 - webpack
 - GraphQL
