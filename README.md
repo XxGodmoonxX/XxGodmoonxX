@@ -3,10 +3,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX" />
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23&langs_count=10" /> -->
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23&langs_count=10" />
+</a> -->
 
 ![Favorite Color](https://img.shields.io/badge/Favorite%20Color-%230000ff-%230000ff)
 
@@ -16,8 +16,8 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/XxGodmoonxX/contributions.svg)](http://qiita.com/XxGodmoonxX)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/XxGodmoonxX/followers.svg)](http://qiita.com/XxGodmoonxX)
 
-正直なところ、Most Used Languagesの大半はUnity ARKit Pluginをimportしたコードです。今は主にJavaScriptを書いているので、JavaScriptがTop5に入れるようにまずは頑張ります。<br>
-To be honest, most of the Most Used Language is code that imported the Unity ARKit Plugin. I'm mainly writing JavaScript right now, so I'll do my best to get JavaScript into the Top 5 first.
+<!-- 正直なところ、Most Used Languagesの大半はUnity ARKit Pluginをimportしたコードです。今は主にJavaScriptを書いているので、JavaScriptがTop5に入れるようにまずは頑張ります。<br>
+To be honest, most of the Most Used Language is code that imported the Unity ARKit Plugin. I'm mainly writing JavaScript right now, so I'll do my best to get JavaScript into the Top 5 first. -->
 
 ## 仕事 / Job
 デザイン会社のフロントエンドエンジニア<br>
