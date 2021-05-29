@@ -31,15 +31,15 @@ Web Frontend Enginner at Design Company
 
 ### 仕事 / Production
 
-- HTML5
+- HTML
   - ejs
   - pug
-- CSS3
+- CSS
   - Sass
-  - Stylus
+  - styled-components
 - JavaScript
   - ES6
-  - jQuery  
+  - jQuery
 - TypeScript
 - React
   - Next.js
