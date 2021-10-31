@@ -1,22 +1,17 @@
 # 👋 I'm Motoki Watanabe - @XxGodmoonxX
 
-## Github Stats
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">  
+    <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX" />-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23&langs_count=5" />
+  </a>
+</div>
 
-### Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true" />
-</a>
-
-### Most Used Language
-
-<a href="https://github.com/anuraghazra/github-readme-stats">  
-  <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23&langs_count=5" />
-</a>
+<br>
   
-## Other
-
 ![Favorite Color](https://img.shields.io/badge/Favorite%20Color-%230000ff-%230000ff)
 
 [![Twitter](https://img.shields.io/twitter/follow/XxGodmoonxX?style=social)](https://twitter.com/XxGodmoonxX)
