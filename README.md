@@ -42,13 +42,14 @@ Web Frontend Enginner at Design Company
   - jQuery
 - TypeScript
 - React
-  - Next.js
+- Next.js
 - gulp
 - webpack
 - GraphQL
+- REST
 
 ### 大学時代の研究で使用 / Used in research in university
 
 - Processing
-- openFrameworks
+- openFrameworks(C++)
 - Unity(C#)
