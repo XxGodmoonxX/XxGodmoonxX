@@ -1,6 +1,9 @@
 # 👋 I'm Motoki Watanabe - @XxGodmoonxX
 
-<div>
+<div style="
+    height: 290px;
+    display: flex;            
+">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true" />
   </a>
