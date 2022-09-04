@@ -24,8 +24,7 @@
 To be honest, most of the Most Used Language is code that imported the Unity ARKit Plugin. I'm mainly writing JavaScript right now, so I'll do my best to get JavaScript into the Top 5 first. -->
 
 ## 仕事 / Job
-デザイン会社のフロントエンドエンジニア<br>
-Web Frontend Enginner at Design Company
+フロントエンドエンジニア / Frontend Enginner
 
 ## 技術スタック / My Technical Stack
 
