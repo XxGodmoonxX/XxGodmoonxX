@@ -16,9 +16,9 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/XxGodmoonxX?style=social)](https://twitter.com/XxGodmoonxX)
 [![Instagram](https://img.shields.io/badge/Instagram-%40xxgodmoonxx-%23C13584)](https://www.instagram.com/xxgodmoonxx/)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/XxGodmoonxX/posts.svg)](http://qiita.com/XxGodmoonxX)
+<!-- [![My Qiita posts](https://qiita-badge.apiapi.app/s/XxGodmoonxX/posts.svg)](http://qiita.com/XxGodmoonxX)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/XxGodmoonxX/contributions.svg)](http://qiita.com/XxGodmoonxX)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/XxGodmoonxX/followers.svg)](http://qiita.com/XxGodmoonxX)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/XxGodmoonxX/followers.svg)](http://qiita.com/XxGodmoonxX) -->
 
 <!-- 正直なところ、Most Used Languagesの大半はUnity ARKit Pluginをimportしたコードです。今は主にJavaScriptを書いているので、JavaScriptがTop5に入れるようにまずは頑張ります。<br>
 To be honest, most of the Most Used Language is code that imported the Unity ARKit Plugin. I'm mainly writing JavaScript right now, so I'll do my best to get JavaScript into the Top 5 first. -->
@@ -37,8 +37,6 @@ To be honest, most of the Most Used Language is code that imported the Unity ARK
   - Sass
   - styled-components
 - JavaScript
-  - ES6
-  - jQuery
 - TypeScript
 - React
 - Next.js
@@ -49,6 +47,6 @@ To be honest, most of the Most Used Language is code that imported the Unity ARK
 
 ### 大学時代の研究で使用 / Used in research in university
 
-- Processing
+- Processing(Java)
 - openFrameworks(C++)
 - Unity(C#)
