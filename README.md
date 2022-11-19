@@ -1,6 +1,7 @@
 # 👋 I'm Motoki Watanabe - @XxGodmoonxX
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&theme=tokyonight&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
