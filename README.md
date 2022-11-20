@@ -14,8 +14,8 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XxGodmoonxX&theme=tokyonight&utcOffset=9) -->
 
 <br>
-  
-![Favorite Color](https://img.shields.io/badge/Favorite%20Color-%230000ff-%230000ff)
+
+![Favorite Color](https://img.shields.io/badge/Favorite%20Color-%234169e1-%234169e1)
 
 [![Twitter](https://img.shields.io/twitter/follow/XxGodmoonxX?style=social)](https://twitter.com/XxGodmoonxX)
 [![Instagram](https://img.shields.io/badge/Instagram-%40xxgodmoonxx-%23C13584)](https://www.instagram.com/xxgodmoonxx/)
