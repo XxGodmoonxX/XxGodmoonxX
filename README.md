@@ -15,7 +15,7 @@
 
 <br>
 
-![Favorite Color](https://img.shields.io/badge/Favorite%20Color-%234169e1-%234169e1)
+![Favorite Color](https://img.shields.io/badge/Favorite%20Color-Loyal%20Blue%20%234169e1-4169e1)
 
 [![Twitter](https://img.shields.io/twitter/follow/XxGodmoonxX?style=social)](https://twitter.com/XxGodmoonxX)
 [![Instagram](https://img.shields.io/badge/Instagram-%40xxgodmoonxx-%23C13584)](https://www.instagram.com/xxgodmoonxx/)
