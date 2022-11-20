@@ -1,17 +1,24 @@
 # 👋 I'm Motoki Watanabe - @XxGodmoonxX
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&theme=tokyonight&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&layout=compact&theme=tokyonight&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<div align="left"> 
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&layout=compact&theme=tokyonight&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23" />
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=XxGodmoonxX&column=7&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=XxGodmoonxX&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">  
-    <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX" />-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGodmoonxX&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23&langs_count=5" />
   </a>
-</div>
+</div> -->
 
 <br>
   
