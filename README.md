@@ -52,11 +52,11 @@
 - webpack
 - GraphQL
 - REST
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
-- Sketch
-- Figma
+- Adobe Photoshop (viewing only or simple editing only)
+- Adobe Illustrator (viewing only or simple editing only)
+- Adobe XD (viewing only or simple editing only)
+- Sketch (viewing only or simple editing only)
+- Figma (viewing only or simple editing only)
 
 ### 大学時代の研究で使用 / Used in research in university
 
