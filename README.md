@@ -27,16 +27,36 @@
 
 ### 仕事 / Production
 
-- HTML(ejs, pug)
-- CSS(Sass, styled-components, emotion, MUI)
+#### 言語 / Languages
+
+- HTML
+  - ejs
+  - pug
+- CSS <!-- <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> -->
+  - Sass
 - JavaScript
 - TypeScript
+
+#### フレームワーク・ライブラリ / Frameworks and libraries
+
+- CSS
+  - styled-components
+  - emotion
+  - MUI
 - React
 - Next.js
+
+#### その他 / Others
+
 - gulp
 - webpack
 - GraphQL
 - REST
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- Sketch
+- Figma
 
 ### 大学時代の研究で使用 / Used in research in university
 
