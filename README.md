@@ -25,14 +25,16 @@
 
 ## 技術スタック / My Technical Stack
 
-### 仕事 / Production
+[motoki-watanabe.net#skill-and-tools](https://motokiwatanabe.notion.site/motokiwatanabe/Motoki-Watanabe-70212745c77a483fa3a96b7c6217d801#bc9012b2de6b421e8418bd564de135bd)
+
+<!-- ### 仕事 / Production
 
 #### 言語 / Languages
 
 - HTML
   - ejs
   - pug
-- CSS <!-- <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> -->
+- CSS
   - Sass
 - JavaScript
 - TypeScript
@@ -63,4 +65,4 @@
 - Processing(Java)
 - openFrameworks(C++)
 - Unity(C#)
-- Arduino
+- Arduino -->
