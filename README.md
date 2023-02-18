@@ -25,6 +25,8 @@
 
 ## 技術スタック / My Technical Stack
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/XxGodmoonxX/my-stack)
+
 [motoki-watanabe.net#skill-and-tools](https://motokiwatanabe.notion.site/motokiwatanabe/Motoki-Watanabe-70212745c77a483fa3a96b7c6217d801#bc9012b2de6b421e8418bd564de135bd)
 
 <!-- ### 仕事 / Production
