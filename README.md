@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40xxgodmoonxx-%23C13584)](https://www.instagram.com/xxgodmoonxx/)
 
 ## 仕事 / Job
-フロントエンドエンジニア / Frontend Enginner
+ソフトウェアエンジニア / Software Enginner
 
 ## 技術スタック / My Technical Stack
 
